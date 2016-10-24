@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="윈플">
+</Property><Property Name="솔루션 파일" Value="C:\Users\이승희\Desktop\윈플\윈플.sln">
+</Property><Property Name="Date" Value="2014년 11월 26일 수요일">
+</Property><Property Name="Time" Value="오후 16:36">
+</Property></Properties><Event ErrorLevel="0" Project="윈플" Source="윈플.vcproj" Description="Converting project file 'C:\Users\이승희\Desktop\윈플\윈플.vcproj'.">
+</Event><Event ErrorLevel="1" Project="윈플" Source="윈플.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="윈플" Source="윈플.vcproj" Description="Done converting to new project file 'C:\Users\이승희\Desktop\윈플\윈플.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="윈플" Source="윈플.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="윈플.sln" Description="솔루션을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="" Source="윈플.sln" Description="Converted">
+</Event></UpgradeLog>
